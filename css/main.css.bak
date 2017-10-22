@@ -486,10 +486,10 @@ h5, h6          { font-weight: bolder }
     display: block;
     width: 100%;color: #4b4848;
     font-family: "raleway-bold", arial;
-    font-size: 26px;
+    font-size: 22px;
     font-weight: bold;
     background: rgba(255, 255, 255, .7);
-    padding: 20px;
+    padding: 15px;
     text-transform: uppercase;
     line-height: 30px;
     margin: 0!important;
@@ -515,9 +515,10 @@ h5, h6          { font-weight: bolder }
     font-family: "raleway-regular", arial;
     font-size: 13px;
     line-height: 22px;
-    padding: 60px 30px;
+    padding: 10px 30px;
     background: #fff;
-    margin-bottom: 70px;
+
+    margin-bottom: 35px;
 
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -534,7 +535,7 @@ h5, h6          { font-weight: bolder }
     font-family: "raleway-regular", arial;
     font-size: 15px;
     line-height: 24px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 .content h1,
@@ -546,7 +547,7 @@ h5, h6          { font-weight: bolder }
     color: #4b4848;
     font-family: "raleway-semibold", arial;
     font-weight: bold;
-    line-height: 2px;
+    line-height: 28px;
     margin-bottom: 10px;
     margin-top: 20px;
 }
