@@ -423,10 +423,11 @@ h5, h6          { font-weight: bolder }
 /*  Inner Page  */
 .top{
     width: 100%;
-    height: 350px;
+    height: 60px;
     overflow: hidden;
     display: block;
-    position: relative;
+	position: relative;
+   
     background-size: cover !important;
     -webkit-background-size: cover !important;
     -moz-background-size: cover !important;
@@ -440,7 +441,11 @@ h5, h6          { font-weight: bolder }
 }
 
 .work_nav .btn{
+	background: rgba(255, 255, 255, .1);
     float: right;
+	 position:fixed;
+       right: 472px;
+       top: 90px;
 }
 
 .work_nav ul{
@@ -451,19 +456,23 @@ h5, h6          { font-weight: bolder }
     display: block;
     float: left;
     margin: 0 0 1px 1px;
-    position: relative;
+	position:relative;
+    
 }
 
 .work_nav a{
     display: block;
     width: 40px;
     height: 40px;
-    background: url('../img/p_navigation.png') no-repeat;
+    background: url('../img/p_navigation 1.png') no-repeat;
     background-position: 0 0;
+	
 }
 
 .work_nav a.previous{
     background-position: 0 0;
+	
+	
 }
 
 .work_nav a.previous.disabled{
@@ -472,10 +481,14 @@ h5, h6          { font-weight: bolder }
 
 .work_nav a.grid{
     background-position: -41px 0;
+	
+	
 }
 
 .work_nav a.next{
     background-position: -82px 0;
+	
+	
 }
 
 .work_nav a.next.disabled{
@@ -517,7 +530,7 @@ h5, h6          { font-weight: bolder }
     line-height: 22px;
     padding: 10px 30px;
     background: #fff;
-
+	margin-top: 35px;
     margin-bottom: 35px;
 
     -webkit-box-sizing: border-box;
