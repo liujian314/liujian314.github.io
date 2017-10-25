@@ -167,9 +167,9 @@
     
       <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
-      <category term="人物" scheme="http://yoursite.com/tags/%E4%BA%BA%E7%89%A9/"/>
-    
       <category term="故事" scheme="http://yoursite.com/tags/%E6%95%85%E4%BA%8B/"/>
+    
+      <category term="人物" scheme="http://yoursite.com/tags/%E4%BA%BA%E7%89%A9/"/>
     
   </entry>
   
