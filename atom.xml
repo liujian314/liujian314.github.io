@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-23T04:39:32.767Z</updated>
+  <updated>2017-10-25T15:56:20.518Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello 欢迎你的来访~</title>
-    <link href="http://yoursite.com/2017/10/21/Hello/"/>
-    <id>http://yoursite.com/2017/10/21/Hello/</id>
+    <title>Hello欢迎你的来访~</title>
+    <link href="http://yoursite.com/post/Hello/"/>
+    <id>http://yoursite.com/post/Hello/</id>
     <published>2017-10-21T10:56:42.252Z</published>
-    <updated>2017-10-23T04:39:32.767Z</updated>
+    <updated>2017-10-25T15:56:20.518Z</updated>
     
     <content type="html"><![CDATA[<p><center><img src="/image/自画像（美化版）450.png" alt="自画像（美化版）450"></center></p><p><center><font size="1" color="#DB8E71">My Head Pic▲</font></center></p><p><center><h2> 博客引导</h2></center></p><font size="2"><br> <font size="4"><strong> 感谢 </strong></font>你的来访~这是我的个人平台，博主工科出身（跟计算机也没有关系的那种），大四🐶，性别️见▲。准GUI设计师一枚。本想学场景/角色什么的，半路出家成了做UX的，可谓野生设计尸一枚。这个博客如你所见，还没绑定域名，我将在添加完些许功能并完善之后绑定域名，如果各位有域名商的记得推荐~空间商也可以，为以后迁移做好准备，哈哈哈。<br> 网站设计多半靠主题支撑，个别页面和功能我作了些改动。我早期接触过网络编程，但没深入，现在隔得时间久了基本不会敲代码。各位有啥好建议或意见的，非常欢迎在评论区指点或直接联系我，请让我再一次感受醍醐灌顶吧。🙈<br><br><br>1-博客除了更新作品（包括练习）之外，也希望有来访的大神指点。<br><br><br>2-如需查看大图，请直接在作品上右键，并选择新标签页打开图片。<br><br><br>3-标签页还在琢磨着怎么完善，暂时无法实现标签搜索和直接查看所有标签，哈哈哈哈，正强补代码知识。。。🙈<br><br><br>4-博主目前仍是半吊子绘画爱好者，轻喷。<br></font><p><br><br><br></p><!---Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).## Quick Start### Create a new post<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a><br>—&gt;</p>-->]]></content>
     
@@ -39,11 +39,11 @@
   </entry>
   
   <entry>
-    <title>偶然想起的小故事 2017.1</title>
-    <link href="http://yoursite.com/2017/01/21/%E5%81%B6%E7%84%B6%E6%83%B3%E8%B5%B7%E7%9A%84%E5%B0%8F%E6%95%85%E4%BA%8B%202017.1/"/>
-    <id>http://yoursite.com/2017/01/21/偶然想起的小故事 2017.1/</id>
+    <title>偶然想起的小故事2017.1</title>
+    <link href="http://yoursite.com/post/%E5%81%B6%E7%84%B6%E6%83%B3%E8%B5%B7%E7%9A%84%E5%B0%8F%E6%95%85%E4%BA%8B%202017.1/"/>
+    <id>http://yoursite.com/post/偶然想起的小故事 2017.1/</id>
     <published>2017-01-21T14:39:13.000Z</published>
-    <updated>2017-10-22T16:03:49.967Z</updated>
+    <updated>2017-10-25T15:55:41.393Z</updated>
     
     <content type="html"><![CDATA[<center><br><br> <h2>偶然想起的小故事 </h2><br><br> </center><p> <img src="/image/偶然想起的小故事 2017.1.jpg" alt="偶然想起的小故事"></p><p>2017.1    Photoshop</p>]]></content>
     
@@ -71,11 +71,11 @@
   </entry>
   
   <entry>
-    <title>Sea 2016.10</title>
-    <link href="http://yoursite.com/2016/10/21/Sea%202016.10/"/>
-    <id>http://yoursite.com/2016/10/21/Sea 2016.10/</id>
+    <title>Sea2016.10</title>
+    <link href="http://yoursite.com/post/Sea%202016.10/"/>
+    <id>http://yoursite.com/post/Sea 2016.10/</id>
     <published>2016-10-21T14:39:13.000Z</published>
-    <updated>2017-10-22T16:05:16.186Z</updated>
+    <updated>2017-10-25T15:56:08.675Z</updated>
     
     <content type="html"><![CDATA[<center><br><br> <h2>Sea </h2><br><br> </center><p> <img src="/image/Sea 2016.10.jpg" alt="Sea"></p><p>2016.10    Photoshop</p>]]></content>
     
@@ -108,11 +108,11 @@
   </entry>
   
   <entry>
-    <title>船宴 2016.10</title>
-    <link href="http://yoursite.com/2016/10/21/%E8%88%B9%E5%AE%B4%202016.10/"/>
-    <id>http://yoursite.com/2016/10/21/船宴 2016.10/</id>
+    <title>船宴2016.10</title>
+    <link href="http://yoursite.com/post/%E8%88%B9%E5%AE%B4%202016.10/"/>
+    <id>http://yoursite.com/post/船宴 2016.10/</id>
     <published>2016-10-21T14:39:13.000Z</published>
-    <updated>2017-10-22T16:02:42.566Z</updated>
+    <updated>2017-10-25T15:55:12.231Z</updated>
     
     <content type="html"><![CDATA[<center><br><br> <h2>船宴</h2><br><br> </center><p> <img src="/image/船宴 2016.10.jpg" alt="船宴"></p><p>  2016.10    Photoshop</p>]]></content>
     
@@ -139,81 +139,11 @@
   </entry>
   
   <entry>
-    <title>重新出发 2016.9</title>
-    <link href="http://yoursite.com/2016/09/21/%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%91%202016.9/"/>
-    <id>http://yoursite.com/2016/09/21/重新出发 2016.9/</id>
+    <title>最后的决战2016.9</title>
+    <link href="http://yoursite.com/post/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%88%98%202016.9/"/>
+    <id>http://yoursite.com/post/最后的决战 2016.9/</id>
     <published>2016-09-21T14:39:13.000Z</published>
-    <updated>2017-10-25T11:52:39.503Z</updated>
-    
-    <content type="html"><![CDATA[<center><br><br> <h2>重新出发</h2><br><br> </center><p> <img src="/image/重新出发.jpg" alt="重新出发"></p><p>  2016.9    Photoshop</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;重新出发&lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
-
-&lt;p&gt; &lt;img src=&quot;/image/重新出发.jpg&quot; alt=&quot;重新出发&quot;&gt;&lt;/p&gt;
-&lt;p&gt;  2016.9    Photoshop&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="场景练习" scheme="http://yoursite.com/categories/%E5%9C%BA%E6%99%AF%E7%BB%83%E4%B9%A0/"/>
-    
-    
-      <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
-    
-      <category term="幻想" scheme="http://yoursite.com/tags/%E5%B9%BB%E6%83%B3/"/>
-    
-      <category term="场景" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
-      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>雪国 2016.9</title>
-    <link href="http://yoursite.com/2016/09/21/%E9%9B%AA%E5%9B%BD%202016.9/"/>
-    <id>http://yoursite.com/2016/09/21/雪国 2016.9/</id>
-    <published>2016-09-21T14:39:13.000Z</published>
-    <updated>2017-10-25T11:52:15.513Z</updated>
-    
-    <content type="html"><![CDATA[<center><br><br> <h2>雪国</h2><br><br> </center><p> <img src="/image/雪国 2016.9.jpg" alt="雪国"></p><p>  2016.9    Photoshop</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;雪国&lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
-
-&lt;p&gt; &lt;img src=&quot;/image/雪国 2016.9.jpg&quot; alt=&quot;雪国&quot;&gt;&lt;/p&gt;
-&lt;p&gt;  2016.9    Photoshop&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="场景练习" scheme="http://yoursite.com/categories/%E5%9C%BA%E6%99%AF%E7%BB%83%E4%B9%A0/"/>
-    
-    
-      <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
-    
-      <category term="风景" scheme="http://yoursite.com/tags/%E9%A3%8E%E6%99%AF/"/>
-    
-      <category term="场景" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
-      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>最后的决战 2016.9</title>
-    <link href="http://yoursite.com/2016/09/21/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%88%98%202016.9/"/>
-    <id>http://yoursite.com/2016/09/21/最后的决战 2016.9/</id>
-    <published>2016-09-21T14:39:13.000Z</published>
-    <updated>2017-10-22T16:03:20.414Z</updated>
+    <updated>2017-10-25T15:55:33.079Z</updated>
     
     <content type="html"><![CDATA[<center><br><br> <h2>最后的决战 </h2><br><br> </center><p> <img src="/image/最后的决战 2016.9.jpg" alt="最后的决战"></p><p>2016.9    Photoshop</p>]]></content>
     
@@ -244,11 +174,81 @@
   </entry>
   
   <entry>
-    <title>杭州夜阁 2016.8</title>
-    <link href="http://yoursite.com/2016/08/21/%E6%9D%AD%E5%B7%9E%E5%A4%9C%E9%98%81%202016.8/"/>
-    <id>http://yoursite.com/2016/08/21/杭州夜阁 2016.8/</id>
+    <title>雪国2016.9</title>
+    <link href="http://yoursite.com/post/%E9%9B%AA%E5%9B%BD%202016.9/"/>
+    <id>http://yoursite.com/post/雪国 2016.9/</id>
+    <published>2016-09-21T14:39:13.000Z</published>
+    <updated>2017-10-25T15:54:48.509Z</updated>
+    
+    <content type="html"><![CDATA[<center><br><br> <h2>雪国</h2><br><br> </center><p> <img src="/image/雪国 2016.9.jpg" alt="雪国"></p><p>  2016.9    Photoshop</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;雪国&lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
+
+&lt;p&gt; &lt;img src=&quot;/image/雪国 2016.9.jpg&quot; alt=&quot;雪国&quot;&gt;&lt;/p&gt;
+&lt;p&gt;  2016.9    Photoshop&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="场景练习" scheme="http://yoursite.com/categories/%E5%9C%BA%E6%99%AF%E7%BB%83%E4%B9%A0/"/>
+    
+    
+      <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
+    
+      <category term="风景" scheme="http://yoursite.com/tags/%E9%A3%8E%E6%99%AF/"/>
+    
+      <category term="场景" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF/"/>
+    
+      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>重新出发2016.9</title>
+    <link href="http://yoursite.com/post/%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%91%202016.9/"/>
+    <id>http://yoursite.com/post/重新出发 2016.9/</id>
+    <published>2016-09-21T14:39:13.000Z</published>
+    <updated>2017-10-25T15:55:03.847Z</updated>
+    
+    <content type="html"><![CDATA[<center><br><br> <h2>重新出发</h2><br><br> </center><p> <img src="/image/重新出发.jpg" alt="重新出发"></p><p>  2016.9    Photoshop</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;重新出发&lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
+
+&lt;p&gt; &lt;img src=&quot;/image/重新出发.jpg&quot; alt=&quot;重新出发&quot;&gt;&lt;/p&gt;
+&lt;p&gt;  2016.9    Photoshop&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="场景练习" scheme="http://yoursite.com/categories/%E5%9C%BA%E6%99%AF%E7%BB%83%E4%B9%A0/"/>
+    
+    
+      <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
+    
+      <category term="幻想" scheme="http://yoursite.com/tags/%E5%B9%BB%E6%83%B3/"/>
+    
+      <category term="场景" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF/"/>
+    
+      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杭州夜阁2016.8</title>
+    <link href="http://yoursite.com/post/%E6%9D%AD%E5%B7%9E%E5%A4%9C%E9%98%81%202016.8/"/>
+    <id>http://yoursite.com/post/杭州夜阁 2016.8/</id>
     <published>2016-08-21T14:39:13.000Z</published>
-    <updated>2017-10-25T11:31:54.516Z</updated>
+    <updated>2017-10-25T15:55:24.441Z</updated>
     
     <content type="html"><![CDATA[<center><br><br> <h2>杭州夜阁</h2><br><br> </center><p> <img src="/image/杭州夜阁 2016.8.jpg" alt="杭州夜阁"></p><p>  2016.8    Photoshop</p>]]></content>
     
@@ -279,11 +279,11 @@
   </entry>
   
   <entry>
-    <title>Swimming Cat 2016.7</title>
-    <link href="http://yoursite.com/2016/07/21/Swimming%20Cat%202016.7/"/>
-    <id>http://yoursite.com/2016/07/21/Swimming Cat 2016.7/</id>
+    <title>SwimmingCat2016.7</title>
+    <link href="http://yoursite.com/post/Swimming%20Cat%202016.7/"/>
+    <id>http://yoursite.com/post/Swimming Cat 2016.7/</id>
     <published>2016-07-21T14:39:13.000Z</published>
-    <updated>2017-10-25T11:53:51.509Z</updated>
+    <updated>2017-10-25T15:55:53.705Z</updated>
     
     <content type="html"><![CDATA[<center><br><br> <h2>Swimming Cat </h2><br><br> </center><p> <img src="/image/Swimming Cat 2016.7.jpg" alt="Swimming Cat"></p><p>2016.7    Photoshop</p>]]></content>
     
