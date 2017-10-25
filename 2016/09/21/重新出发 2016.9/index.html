@@ -172,7 +172,7 @@
 
 
 <div class="tags">
-    <a href="/tags/Photoshop/">Photoshop</a> <a href="/tags/练习/">练习</a> <a href="/tags/幻想/">幻想</a> <a href="/tags/场景/">场景</a>
+    <a href="/tags/Photoshop/">Photoshop</a> <a href="/tags/幻想/">幻想</a> <a href="/tags/场景/">场景</a> <a href="/tags/练习/">练习</a>
 </div>
 
 
@@ -185,17 +185,19 @@
 
   <div class="comments" id="comments"></div>
     
+     <!--Leancloud 操作库:-->
     <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/valine@1.1.6/dist/Valine.min.js"></script>
+    <!--Valine 的核心代码库:-->
+    <script src="./dist/Valine.min.js"></script>
+    <div class="comment"></div>
     <script>
         new Valine({
-            av: AV,
-            el: '.comments',
-            notify: true, // 邮件提醒 v1.1.4新增，下一步中有具体的邮箱设置
-            verify: true,
-            app_id: '{{ theme.valine.appId }}',
-            app_key: '{{ theme.valine.appKey }}',
-            placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!'
+            // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
+            av: AV, 
+            el: '.comment', // 
+            app_id: 'Your APP ID', // 这里填写上面得到的APP ID
+            app_key: 'Your APP KEY', // 这里填写上面得到的APP KEY
+            placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!' // [v1.0.7 new]留言框占位提示文字
         });
     </script>
   

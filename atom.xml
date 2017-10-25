@@ -62,9 +62,9 @@
     
       <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
       <category term="场景" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF/"/>
+    
+      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
       <category term="故事" scheme="http://yoursite.com/tags/%E6%95%85%E4%BA%8B/"/>
     
@@ -95,8 +95,6 @@
     
       <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
       <category term="幻想" scheme="http://yoursite.com/tags/%E5%B9%BB%E6%83%B3/"/>
     
       <category term="风景" scheme="http://yoursite.com/tags/%E9%A3%8E%E6%99%AF/"/>
@@ -104,6 +102,8 @@
       <category term="场景" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
       <category term="海" scheme="http://yoursite.com/tags/%E6%B5%B7/"/>
+    
+      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
@@ -132,9 +132,9 @@
     
       <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
       <category term="场景" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF/"/>
+    
+      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
@@ -163,9 +163,9 @@
     
       <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
       <category term="场景" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF/"/>
+    
+      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
       <category term="故事" scheme="http://yoursite.com/tags/%E6%95%85%E4%BA%8B/"/>
     
@@ -198,11 +198,11 @@
     
       <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
       <category term="幻想" scheme="http://yoursite.com/tags/%E5%B9%BB%E6%83%B3/"/>
     
       <category term="场景" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF/"/>
+    
+      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
@@ -231,11 +231,11 @@
     
       <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
       <category term="风景" scheme="http://yoursite.com/tags/%E9%A3%8E%E6%99%AF/"/>
     
       <category term="场景" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF/"/>
+    
+      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
@@ -264,9 +264,9 @@
     
       <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
       <category term="场景" scheme="http://yoursite.com/tags/%E5%9C%BA%E6%99%AF/"/>
+    
+      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
       <category term="建筑" scheme="http://yoursite.com/tags/%E5%BB%BA%E7%AD%91/"/>
     
@@ -296,11 +296,11 @@
     
       <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
     
+      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
       <category term="动物" scheme="http://yoursite.com/tags/%E5%8A%A8%E7%89%A9/"/>
     
       <category term="写实" scheme="http://yoursite.com/tags/%E5%86%99%E5%AE%9E/"/>
-    
-      <category term="练习" scheme="http://yoursite.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
