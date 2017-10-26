@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Head tag -->
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+
+    <!--Description-->
+    
+        <meta name="description" content="hexo搭建博客后magnetic主题如何添加valine评论系统
+&amp;emsp;&amp;emsp;评论系统终归还是要能用才算好，这两天一直在查找相关资料，多是关于NexT主题的，我这主题怎么更改评论系统的资料在网上毫无影踪。&amp;emsp;&amp;emsp;主题不一样倒还好，都是hexo框架下的，组件分布都差不多，">
+    
+
+    <!--Author-->
+    
+        <meta name="author" content="Liujian">
+    
+
+    <!--Open Graph Title-->
+    
+        <meta property="og:title" content="hexo-github博客：magnetic主题如何添加Valine评论系统"/>
+    
+
+    <!--Open Graph Site Name-->
+    <meta property="og:site_name" content="Liu Jian&#39;s Home"/>
+
+    <!--Page Cover-->
+    
+        <meta property="og:image" content=""/>
+    
+
+    <!-- Title -->
+    
+    <title>hexo-github博客：magnetic主题如何添加Valine评论系统 - Liu Jian&#39;s Home</title>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/main.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Gallery -->
+    <link href="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+
+    <!-- Google Analytics -->
+    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-108454483-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+
+
+</head>
+
+<body>
+
+<!-- Menu -->
+<!-- Navigation -->
+<header>
+    <div class="logo">
+        <a href="/">Liu Jian's Home</a>
+    </div><!-- end logo -->
+
+    <div id="menu_icon"></div>
+    <nav>
+        <ul>
+            
+            <li>
+                <a href="/">Home-主页</a>
+            </li>
+            
+            <li>
+                <a href="/whoami">Who Am I-简介</a>
+            </li>
+            
+            <li>
+                <a href="/lifesharing">Life Sharing-点滴</a>
+            </li>
+            
+            <li>
+                <a href="/contactme">Contact Me-联系</a>
+            </li>
+            
+        </ul>
+    </nav><!-- end navigation menu -->
+
+    <div class="footer clearfix">
+        <ul class="social clearfix">
+            
+            
+                <li><a href="https://www.facebook.com/LiuJian314" class="fb" target="_blank" data-title="Facebook"></a></li>
+            
+            
+                <li><a href="https://www.behance.net/xuyuzexue" class="behance" target="_blank" data-title="Behance"></a></li>
+            
+            
+                <li><a href="https://plus.google.com/106302960531813158882" class="google" target="_blank" data-title="Google+"></a></li>
+            
+            
+                <li><a href="https://dribbble.com/Xuyu314" class="dribble" target="_blank" data-title="Dribble"></a></li>
+            
+            
+                <li><a href="/atom.xml" class="rss" target="_blank" data-title="RSS"></a></li>
+            
+        </ul><!-- end social -->
+		
+		 <!--
+        <div class="rights">
+            <p>Copyright © 2014 magnetic.</p>
+            <p>Template by <a href="http://pixelhint.com/magnetic-free-html5-responsive-photography-website-template/">Pixelhint.com</a></p>
+            <p>Hexo Theme by <a href="http://www.codeblocq.com/">Jonathan K.</a></p>
+        </div><!-- end rights -->
+		
+    </div ><!-- end footer -->
+</header><!-- end header -->
+
+<!-- Main Content -->
+<section class="main clearfix"> 
+    <!-- section class="top" style="background: url('http://placehold.it/1300x500');">
+        <div class="wrapper content_header clearfix">
+            <h1 class="title">hexo-github博客：magnetic主题如何添加Valine评论系统</h1>
+        </div>
+    </section><!-- end top -->
+
+    <section class="wrapper">
+        <div class="content">
+         
+            <!-- Gallery -->
+            
+	  
+            <!-- Content -->
+            <p><br></p>
+<center>
+
+
+<p></p><h2>hexo搭建博客后magnetic主题如何添加valine评论系统</h2><br></center><p></p>
+<font size="2"><br>&emsp;&emsp;评论系统终归还是要能用才算好，这两天一直在查找相关资料，多是关于NexT主题的，我这主题怎么更改评论系统的资料在网上毫无影踪。<br><br>&emsp;&emsp;主题不一样倒还好，都是hexo框架下的，组件分布都差不多，但是坑的是我这主题的layout文件是”.ejs”，而其他主题的基本是”.swig”。语法有些许区别，这让我这个不懂代码的小白完全不知怎么入手。<br><br>&emsp;&emsp;所以最后这评论系统还是靠东粘贴一点，西复制一点拼凑起来的。由于折腾了两三个小时，更让我明白了这个hexo博客是怎么部署的了。我相信也有一部分人不擅长网络编程，但却想建Blog的。我在这试着提供些资料。<br><br>&emsp;&emsp;我的主题是magnetic,下面的代码不保证对其他主题有效（我甚至不知道这代码本身有无错误，hahaha,总之亲测正常能用就可以了）<br><br>&emsp;&emsp;前期准备看这个链接：<a href="https://ioliu.cn/2017/add-valine-comments-to-your-blog/" target="_blank" rel="external">https://ioliu.cn/2017/add-valine-comments-to-your-blog/</a><br><br>&emsp;&emsp;按照上面链接提供的教程注册LeanCloud，创建好应用后记得copy一下appId和appKey。然后剩下的就是主题这边的配置了。<br><br>&emsp;&emsp;我们先要在站点配置文件里的评论区域添加一行代码:<br><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"># Comments. Choose one by filling up the information</div><div class="line">   # valine comments</div><div class="line">   valine: </div><div class="line">     enable: true </div><div class="line">     appId: #从LeanCloud应用设置中获取</div><div class="line">     appKey: #从LeanCloud应用设置中获取</div></pre></td></tr></table></figure><br><br>&emsp;&emsp;其他评论系统可以不删，只要不输入值就可以了。<br><br>&emsp;&emsp;然后找到主题文件夹下的leyout文件夹，再其二级文件夹里有一个comments.ejs文件，将其代码全部替换为下列内容（注意备份）<br><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line">&lt;% if(page.comments &amp;&amp; theme.comments )&#123; %&gt;</div><div class="line">&lt;h3&gt; 驻足此地超过3s,是不是有话要说~🙈&lt;/h3&gt;</div><div class="line">  &lt;div class=&quot;comments&quot; id=&quot;comments&quot;&gt;&lt;/div&gt;</div><div class="line">    &lt;% if (theme.comments.valine &amp;&amp; theme.comments.valine.enable)%&gt;</div><div class="line">    &lt;script src=&quot;//cdn1.lncld.net/static/js/3.0.4/av-min.js&quot;&gt;&lt;/script&gt;</div><div class="line">    &lt;script src=&quot;/js/Valine.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">    &lt;script&gt;</div><div class="line">       new Valine(&#123;</div><div class="line">            el: &apos;.comments&apos;,</div><div class="line">            notify: true, // 邮件提醒 v1.1.4新增，下一步中有具体的邮箱设置</div><div class="line">            verify: true,</div><div class="line">            app_id: &apos;&lt;%= theme.comments.valine.appId %&gt;&apos;,</div><div class="line">            app_key: &apos;&lt;%= theme.comments.valine.appKey %&gt;&apos;,</div><div class="line">			placeholder: &apos;评论时填写邮箱仅为方便收到回复提醒，无其他用途&apos;           </div><div class="line">        &#125;);</div><div class="line">    &lt;/script&gt;	</div><div class="line">	&lt;% &#125; %&gt;</div></pre></td></tr></table></figure><br><br>&emsp;&emsp;ok,到此就搞定了，重新在git-bush里执行hexo clean和hexo g就可以了。预览后你可以看到评论系统已经成功由Disqus替换为Valine。<br><br>&emsp;&emsp;关于很多人提到按链接里的教程添加代码，有评论界面却无法留下回复内容的情况，我想我找到原因了。<br><br>&emsp;&emsp;看到comments.ejs 里的“theme.comments.valine”这段没？大部分教程里都是这个样子“theme.comment.valine”,comment少了个s，根据主题配置文件的路径，脚本自然无法记录你的ID和key。<br><br>参考文章链接：<br><a href="https://ioliu.cn/2017/add-valine-comments-to-your-blog/" target="_blank" rel="external">https://ioliu.cn/2017/add-valine-comments-to-your-blog/</a><br><br><a href="https://www.yfzzweb.com/Hexo/hexo-valine/#more" target="_blank" rel="external">https://www.yfzzweb.com/Hexo/hexo-valine/#more</a><br><br>2017.10.25<br></font>
+
+            <!-- Comments -->
+            <div>
+                
+
+</br>
+</br>
+<h3> 驻足此地超过3s,是不是有话要说~🙈</h3>
+  <div class="comments" id="comments"></div>
+    
+	
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src="/js/Valine.min.js"></script>
+    <script>
+       new Valine({
+            el: '.comments',
+            notify: true, // 邮件提醒 v1.1.4新增，下一步中有具体的邮箱设置
+            verify: true,
+            app_id: 'oFTVPhtp8r22NNFrXst4J8GF-gzGzoHsz',
+            app_key: 'ijL20KXpg1s020DJPtDOlzn9',
+			placeholder: '评论时填写邮箱仅为方便收到回复提醒，无其他用途'
+            
+        });
+    </script>
+	
+	
+            </div>
+        </div><!-- end content -->
+    </section>
+</section><!-- end main -->
+
+<!-- After footer scripts -->
+
+<!-- jQuery -->
+<script src="/js/jquery.js"></script>
+
+<!-- Custom Code -->
+<script src="/js/main.js"></script>
+
+<!-- Gallery -->
+<script src="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+
+<!-- Disqus Comments -->
+
+
+</body>
+
+</html>

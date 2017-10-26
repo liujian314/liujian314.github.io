@@ -1,0 +1,70 @@
+---
+title: hexo-github博客：magnetic主题如何添加Valine评论系统
+date: 2017-10-25 00:30:23
+---
+
+</br>
+<center>
+
+
+<h2>hexo搭建博客后magnetic主题如何添加valine评论系统</h2>
+</center>
+<font size="2">
+&emsp;&emsp;评论系统终归还是要能用才算好，这两天一直在查找相关资料，多是关于NexT主题的，我这主题怎么更改评论系统的资料在网上毫无影踪。
+
+&emsp;&emsp;主题不一样倒还好，都是hexo框架下的，组件分布都差不多，但是坑的是我这主题的layout文件是".ejs"，而其他主题的基本是".swig"。语法有些许区别，这让我这个不懂代码的小白完全不知怎么入手。
+
+&emsp;&emsp;所以最后这评论系统还是靠东粘贴一点，西复制一点拼凑起来的。由于折腾了两三个小时，更让我明白了这个hexo博客是怎么部署的了。我相信也有一部分人不擅长网络编程，但却想建Blog的。我在这试着提供些资料。
+
+&emsp;&emsp;我的主题是magnetic,下面的代码不保证对其他主题有效（我甚至不知道这代码本身有无错误，hahaha,总之亲测正常能用就可以了）
+
+&emsp;&emsp;前期准备看这个链接：https://ioliu.cn/2017/add-valine-comments-to-your-blog/
+
+&emsp;&emsp;按照上面链接提供的教程注册LeanCloud，创建好应用后记得copy一下appId和appKey。然后剩下的就是主题这边的配置了。
+
+&emsp;&emsp;我们先要在站点配置文件里的评论区域添加一行代码:
+
+```
+# Comments. Choose one by filling up the information
+   # valine comments
+   valine: 
+     enable: true 
+     appId: #从LeanCloud应用设置中获取
+     appKey: #从LeanCloud应用设置中获取
+```
+&emsp;&emsp;其他评论系统可以不删，只要不输入值就可以了。
+
+&emsp;&emsp;然后找到主题文件夹下的leyout文件夹，再其二级文件夹里有一个comments.ejs文件，将其代码全部替换为下列内容（注意备份）
+
+```
+<% if(page.comments && theme.comments ){ %>
+<h3> 驻足此地超过3s,是不是有话要说~🙈</h3>
+  <div class="comments" id="comments"></div>
+    <% if (theme.comments.valine && theme.comments.valine.enable)%>
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src="/js/Valine.min.js"></script>
+    <script>
+       new Valine({
+            el: '.comments',
+            notify: true, // 邮件提醒 v1.1.4新增，下一步中有具体的邮箱设置
+            verify: true,
+            app_id: '<%= theme.comments.valine.appId %>',
+            app_key: '<%= theme.comments.valine.appKey %>',
+			placeholder: '评论时填写邮箱仅为方便收到回复提醒，无其他用途'           
+        });
+    </script>	
+	<% } %>
+```
+&emsp;&emsp;ok,到此就搞定了，重新在git-bush里执行hexo clean和hexo g就可以了。预览后你可以看到评论系统已经成功由Disqus替换为Valine。
+
+&emsp;&emsp;关于很多人提到按链接里的教程添加代码，有评论界面却无法留下回复内容的情况，我想我找到原因了。
+
+&emsp;&emsp;看到comments.ejs 里的“theme.comments.valine”这段没？大部分教程里都是这个样子“theme.comment.valine”,comment少了个s,根据主题配置文件的路径，脚本自然无法记录你的ID和key。
+
+参考文章链接：
+https://ioliu.cn/2017/add-valine-comments-to-your-blog/
+
+https://www.yfzzweb.com/Hexo/hexo-valine/#more
+
+2017.10.25
+</font>
