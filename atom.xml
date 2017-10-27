@@ -5,9 +5,9 @@
   <subtitle>刘健的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://liujiannn.com/"/>
+  <link href="http://liujiannn.com/"/>
   <updated>2017-10-25T16:00:29.420Z</updated>
-  <id>https://liujiannn.com/</id>
+  <id>http://liujiannn.com/</id>
   
   <author>
     <name>Liujian</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello 欢迎你的来访~</title>
-    <link href="https://liujiannn.com/post/Hello/"/>
-    <id>https://liujiannn.com/post/Hello/</id>
+    <link href="http://liujiannn.com/post/Hello/"/>
+    <id>http://liujiannn.com/post/Hello/</id>
     <published>2017-10-21T10:56:42.252Z</published>
     <updated>2017-10-25T16:00:29.420Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>偶然想起的小故事 2017.1</title>
-    <link href="https://liujiannn.com/post/%E5%81%B6%E7%84%B6%E6%83%B3%E8%B5%B7%E7%9A%84%E5%B0%8F%E6%95%85%E4%BA%8B2017.1/"/>
-    <id>https://liujiannn.com/post/偶然想起的小故事2017.1/</id>
+    <link href="http://liujiannn.com/post/%E5%81%B6%E7%84%B6%E6%83%B3%E8%B5%B7%E7%9A%84%E5%B0%8F%E6%95%85%E4%BA%8B2017.1/"/>
+    <id>http://liujiannn.com/post/偶然想起的小故事2017.1/</id>
     <published>2017-01-21T14:39:13.000Z</published>
     <updated>2017-10-25T16:00:04.239Z</updated>
     
@@ -60,20 +60,20 @@
     </summary>
     
     
-      <category term="Photoshop" scheme="https://liujiannn.com/tags/Photoshop/"/>
+      <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="https://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
-      <category term="场景" scheme="https://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
-      <category term="故事" scheme="https://liujiannn.com/tags/%E6%95%85%E4%BA%8B/"/>
+      <category term="故事" scheme="http://liujiannn.com/tags/%E6%95%85%E4%BA%8B/"/>
     
   </entry>
   
   <entry>
     <title>Sea 2016.10</title>
-    <link href="https://liujiannn.com/post/Sea2016.10/"/>
-    <id>https://liujiannn.com/post/Sea2016.10/</id>
+    <link href="http://liujiannn.com/post/Sea2016.10/"/>
+    <id>http://liujiannn.com/post/Sea2016.10/</id>
     <published>2016-10-21T14:39:13.000Z</published>
     <updated>2017-10-25T16:00:18.958Z</updated>
     
@@ -93,24 +93,24 @@
     </summary>
     
     
-      <category term="Photoshop" scheme="https://liujiannn.com/tags/Photoshop/"/>
+      <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="https://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+      <category term="幻想" scheme="http://liujiannn.com/tags/%E5%B9%BB%E6%83%B3/"/>
     
-      <category term="幻想" scheme="https://liujiannn.com/tags/%E5%B9%BB%E6%83%B3/"/>
+      <category term="风景" scheme="http://liujiannn.com/tags/%E9%A3%8E%E6%99%AF/"/>
     
-      <category term="风景" scheme="https://liujiannn.com/tags/%E9%A3%8E%E6%99%AF/"/>
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
-      <category term="场景" scheme="https://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
+      <category term="海" scheme="http://liujiannn.com/tags/%E6%B5%B7/"/>
     
-      <category term="海" scheme="https://liujiannn.com/tags/%E6%B5%B7/"/>
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>船宴 2016.10</title>
-    <link href="https://liujiannn.com/post/%E8%88%B9%E5%AE%B42016.10/"/>
-    <id>https://liujiannn.com/post/船宴2016.10/</id>
+    <link href="http://liujiannn.com/post/%E8%88%B9%E5%AE%B42016.10/"/>
+    <id>http://liujiannn.com/post/船宴2016.10/</id>
     <published>2016-10-21T14:39:13.000Z</published>
     <updated>2017-10-25T15:59:44.852Z</updated>
     
@@ -130,18 +130,18 @@
     </summary>
     
     
-      <category term="Photoshop" scheme="https://liujiannn.com/tags/Photoshop/"/>
+      <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="https://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
-      <category term="场景" scheme="https://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>最后的决战 2016.9</title>
-    <link href="https://liujiannn.com/post/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%88%982016.9/"/>
-    <id>https://liujiannn.com/post/最后的决战2016.9/</id>
+    <link href="http://liujiannn.com/post/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%88%982016.9/"/>
+    <id>http://liujiannn.com/post/最后的决战2016.9/</id>
     <published>2016-09-21T14:39:13.000Z</published>
     <updated>2017-10-25T15:59:58.139Z</updated>
     
@@ -161,22 +161,22 @@
     </summary>
     
     
-      <category term="Photoshop" scheme="https://liujiannn.com/tags/Photoshop/"/>
+      <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="https://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
-      <category term="场景" scheme="https://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
-      <category term="故事" scheme="https://liujiannn.com/tags/%E6%95%85%E4%BA%8B/"/>
+      <category term="故事" scheme="http://liujiannn.com/tags/%E6%95%85%E4%BA%8B/"/>
     
-      <category term="人物" scheme="https://liujiannn.com/tags/%E4%BA%BA%E7%89%A9/"/>
+      <category term="人物" scheme="http://liujiannn.com/tags/%E4%BA%BA%E7%89%A9/"/>
     
   </entry>
   
   <entry>
     <title>重新出发 2016.9</title>
-    <link href="https://liujiannn.com/post/%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%912016.9/"/>
-    <id>https://liujiannn.com/post/重新出发2016.9/</id>
+    <link href="http://liujiannn.com/post/%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%912016.9/"/>
+    <id>http://liujiannn.com/post/重新出发2016.9/</id>
     <published>2016-09-21T14:39:13.000Z</published>
     <updated>2017-10-25T15:59:38.902Z</updated>
     
@@ -195,23 +195,23 @@
     
     </summary>
     
-      <category term="场景练习" scheme="https://liujiannn.com/categories/%E5%9C%BA%E6%99%AF%E7%BB%83%E4%B9%A0/"/>
+      <category term="场景练习" scheme="http://liujiannn.com/categories/%E5%9C%BA%E6%99%AF%E7%BB%83%E4%B9%A0/"/>
     
     
-      <category term="Photoshop" scheme="https://liujiannn.com/tags/Photoshop/"/>
+      <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="https://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+      <category term="幻想" scheme="http://liujiannn.com/tags/%E5%B9%BB%E6%83%B3/"/>
     
-      <category term="幻想" scheme="https://liujiannn.com/tags/%E5%B9%BB%E6%83%B3/"/>
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
-      <category term="场景" scheme="https://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>雪国 2016.9</title>
-    <link href="https://liujiannn.com/post/%E9%9B%AA%E5%9B%BD2016.9/"/>
-    <id>https://liujiannn.com/post/雪国2016.9/</id>
+    <link href="http://liujiannn.com/post/%E9%9B%AA%E5%9B%BD2016.9/"/>
+    <id>http://liujiannn.com/post/雪国2016.9/</id>
     <published>2016-09-21T14:39:13.000Z</published>
     <updated>2017-10-25T15:59:33.016Z</updated>
     
@@ -230,23 +230,23 @@
     
     </summary>
     
-      <category term="场景练习" scheme="https://liujiannn.com/categories/%E5%9C%BA%E6%99%AF%E7%BB%83%E4%B9%A0/"/>
+      <category term="场景练习" scheme="http://liujiannn.com/categories/%E5%9C%BA%E6%99%AF%E7%BB%83%E4%B9%A0/"/>
     
     
-      <category term="Photoshop" scheme="https://liujiannn.com/tags/Photoshop/"/>
+      <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="https://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+      <category term="风景" scheme="http://liujiannn.com/tags/%E9%A3%8E%E6%99%AF/"/>
     
-      <category term="风景" scheme="https://liujiannn.com/tags/%E9%A3%8E%E6%99%AF/"/>
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
-      <category term="场景" scheme="https://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>杭州夜阁 2016.8</title>
-    <link href="https://liujiannn.com/post/%E6%9D%AD%E5%B7%9E%E5%A4%9C%E9%98%812016.8/"/>
-    <id>https://liujiannn.com/post/杭州夜阁2016.8/</id>
+    <link href="http://liujiannn.com/post/%E6%9D%AD%E5%B7%9E%E5%A4%9C%E9%98%812016.8/"/>
+    <id>http://liujiannn.com/post/杭州夜阁2016.8/</id>
     <published>2016-08-21T14:39:13.000Z</published>
     <updated>2017-10-25T15:59:50.831Z</updated>
     
@@ -265,23 +265,23 @@
     
     </summary>
     
-      <category term="场景练习" scheme="https://liujiannn.com/categories/%E5%9C%BA%E6%99%AF%E7%BB%83%E4%B9%A0/"/>
+      <category term="场景练习" scheme="http://liujiannn.com/categories/%E5%9C%BA%E6%99%AF%E7%BB%83%E4%B9%A0/"/>
     
     
-      <category term="Photoshop" scheme="https://liujiannn.com/tags/Photoshop/"/>
+      <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="https://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
-      <category term="场景" scheme="https://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
-      <category term="建筑" scheme="https://liujiannn.com/tags/%E5%BB%BA%E7%AD%91/"/>
+      <category term="建筑" scheme="http://liujiannn.com/tags/%E5%BB%BA%E7%AD%91/"/>
     
   </entry>
   
   <entry>
     <title>Swimming Cat 2016.7</title>
-    <link href="https://liujiannn.com/post/Swimming%20Cat2016.7/"/>
-    <id>https://liujiannn.com/post/Swimming Cat2016.7/</id>
+    <link href="http://liujiannn.com/post/Swimming%20Cat2016.7/"/>
+    <id>http://liujiannn.com/post/Swimming Cat2016.7/</id>
     <published>2016-07-21T14:39:13.000Z</published>
     <updated>2017-10-25T16:00:13.125Z</updated>
     
@@ -299,16 +299,16 @@
     
     </summary>
     
-      <category term="写实" scheme="https://liujiannn.com/categories/%E5%86%99%E5%AE%9E/"/>
+      <category term="写实" scheme="http://liujiannn.com/categories/%E5%86%99%E5%AE%9E/"/>
     
     
-      <category term="Photoshop" scheme="https://liujiannn.com/tags/Photoshop/"/>
+      <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="动物" scheme="https://liujiannn.com/tags/%E5%8A%A8%E7%89%A9/"/>
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
-      <category term="写实" scheme="https://liujiannn.com/tags/%E5%86%99%E5%AE%9E/"/>
+      <category term="动物" scheme="http://liujiannn.com/tags/%E5%8A%A8%E7%89%A9/"/>
     
-      <category term="练习" scheme="https://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+      <category term="写实" scheme="http://liujiannn.com/tags/%E5%86%99%E5%AE%9E/"/>
     
   </entry>
   
