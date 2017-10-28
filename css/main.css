@@ -1681,7 +1681,7 @@ figure.highlight.yml .number,
        only screen and (min--moz-device-pixel-ratio: 1.5),
        only screen and (min-device-pixel-ratio: 1.5){
     .-mob-share-weixin-qrcode-close {
-        background-image: url('../img/fancybox_sprite@2x.png') !important;//因为兼容问题把vendor改成了lib，根据自己的路径修改
+        background-image: url('../img/fancybox_sprite.png') !important;//因为兼容问题把vendor改成了lib，根据自己的路径修改
         background-size: 44px 152px !important; /*The size of the normal image, half the size of the hi-res image*/
     }
 }

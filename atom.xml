@@ -62,9 +62,9 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
       <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
       <category term="故事" scheme="http://liujiannn.com/tags/%E6%95%85%E4%BA%8B/"/>
     
@@ -95,6 +95,8 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
       <category term="幻想" scheme="http://liujiannn.com/tags/%E5%B9%BB%E6%83%B3/"/>
     
       <category term="风景" scheme="http://liujiannn.com/tags/%E9%A3%8E%E6%99%AF/"/>
@@ -102,8 +104,6 @@
       <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
       <category term="海" scheme="http://liujiannn.com/tags/%E6%B5%B7/"/>
-    
-      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
@@ -132,44 +132,9 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
       <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
-  </entry>
-  
-  <entry>
-    <title>最后的决战 2016.9</title>
-    <link href="http://liujiannn.com/post/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%88%982016.9/"/>
-    <id>http://liujiannn.com/post/最后的决战2016.9/</id>
-    <published>2016-09-21T14:39:13.000Z</published>
-    <updated>2017-10-25T15:59:58.139Z</updated>
-    
-    <content type="html"><![CDATA[<center><br><br> <h2>最后的决战 </h2><br><br> </center><p> <img src="/image/最后的决战 2016.9.jpg" alt="最后的决战"></p><p>2016.9    Photoshop</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;最后的决战 &lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
-
-&lt;p&gt; &lt;img src=&quot;/image/最后的决战 2016.9.jpg&quot; alt=&quot;最后的决战&quot;&gt;&lt;/p&gt;
-&lt;p&gt;2016.9    Photoshop&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
-    
       <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
-      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
-      <category term="故事" scheme="http://liujiannn.com/tags/%E6%95%85%E4%BA%8B/"/>
-    
-      <category term="人物" scheme="http://liujiannn.com/tags/%E4%BA%BA%E7%89%A9/"/>
     
   </entry>
   
@@ -200,11 +165,11 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
       <category term="幻想" scheme="http://liujiannn.com/tags/%E5%B9%BB%E6%83%B3/"/>
     
       <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
-      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
@@ -235,11 +200,46 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
       <category term="风景" scheme="http://liujiannn.com/tags/%E9%A3%8E%E6%99%AF/"/>
     
       <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
+  </entry>
+  
+  <entry>
+    <title>最后的决战 2016.9</title>
+    <link href="http://liujiannn.com/post/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%88%982016.9/"/>
+    <id>http://liujiannn.com/post/最后的决战2016.9/</id>
+    <published>2016-09-21T14:39:13.000Z</published>
+    <updated>2017-10-25T15:59:58.139Z</updated>
+    
+    <content type="html"><![CDATA[<center><br><br> <h2>最后的决战 </h2><br><br> </center><p> <img src="/image/最后的决战 2016.9.jpg" alt="最后的决战"></p><p>2016.9    Photoshop</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;最后的决战 &lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
+
+&lt;p&gt; &lt;img src=&quot;/image/最后的决战 2016.9.jpg&quot; alt=&quot;最后的决战&quot;&gt;&lt;/p&gt;
+&lt;p&gt;2016.9    Photoshop&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
+    
       <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
+    
+      <category term="故事" scheme="http://liujiannn.com/tags/%E6%95%85%E4%BA%8B/"/>
+    
+      <category term="人物" scheme="http://liujiannn.com/tags/%E4%BA%BA%E7%89%A9/"/>
     
   </entry>
   
@@ -270,9 +270,9 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
       <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
       <category term="建筑" scheme="http://liujiannn.com/tags/%E5%BB%BA%E7%AD%91/"/>
     
@@ -304,11 +304,11 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
       <category term="动物" scheme="http://liujiannn.com/tags/%E5%8A%A8%E7%89%A9/"/>
     
       <category term="写实" scheme="http://liujiannn.com/tags/%E5%86%99%E5%AE%9E/"/>
+    
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
