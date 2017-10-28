@@ -159,38 +159,41 @@
 
 <p></p><h2>hexo搭建博客后magnetic主题如何添加valine评论系统</h2><br></center><p></p>
 <font size="2"><br>&emsp;&emsp;评论系统终归还是要能用才算好，这两天一直在查找相关资料，多是关于NexT主题的，我这主题怎么更改评论系统的资料在网上毫无影踪。<br><br>&emsp;&emsp;主题不一样倒还好，都是hexo框架下的，组件分布都差不多，但是坑的是我这主题的layout文件是”.ejs”，而其他主题的基本是”.swig”。语法有些许区别，这让我这个不懂代码的小白完全不知怎么入手。<br><br>&emsp;&emsp;所以最后这评论系统还是靠东粘贴一点，西复制一点拼凑起来的。由于折腾了两三个小时，更让我明白了这个hexo博客是怎么部署的了。我相信也有一部分人不擅长网络编程，但却想建Blog的。我在这试着提供些资料。<br><br>&emsp;&emsp;我的主题是magnetic,下面的代码不保证对其他主题有效（我甚至不知道这代码本身有无错误，hahaha,总之亲测正常能用就可以了）<br><br>&emsp;&emsp;前期准备看这个链接：<a href="https://ioliu.cn/2017/add-valine-comments-to-your-blog/" target="_blank" rel="external">https://ioliu.cn/2017/add-valine-comments-to-your-blog/</a><br><br>&emsp;&emsp;按照上面链接提供的教程注册LeanCloud，创建好应用后记得copy一下appId和appKey。然后剩下的就是主题这边的配置了。<br><br>&emsp;&emsp;我们先要在站点配置文件里的评论区域添加一行代码:<br><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"># Comments. Choose one by filling up the information</div><div class="line">   # valine comments</div><div class="line">   valine: </div><div class="line">     enable: true </div><div class="line">     appId: #从LeanCloud应用设置中获取</div><div class="line">     appKey: #从LeanCloud应用设置中获取</div></pre></td></tr></table></figure><br><br>&emsp;&emsp;其他评论系统可以不删，只要不输入值就可以了。<br><br>&emsp;&emsp;然后找到主题文件夹下的leyout文件夹，再其二级文件夹里有一个comments.ejs文件，将其代码全部替换为下列内容（注意备份）<br><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line">&lt;% if(page.comments &amp;&amp; theme.comments )&#123; %&gt;</div><div class="line">&lt;h3&gt; 驻足此地超过3s,是不是有话要说~🙈&lt;/h3&gt;</div><div class="line">  &lt;div class=&quot;comments&quot; id=&quot;comments&quot;&gt;&lt;/div&gt;</div><div class="line">    &lt;% if (theme.comments.valine &amp;&amp; theme.comments.valine.enable)%&gt;</div><div class="line">    &lt;script src=&quot;//cdn1.lncld.net/static/js/3.0.4/av-min.js&quot;&gt;&lt;/script&gt;</div><div class="line">    &lt;script src=&quot;/js/Valine.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">    &lt;script&gt;</div><div class="line">       new Valine(&#123;</div><div class="line">            el: &apos;.comments&apos;,</div><div class="line">            notify: true, // 邮件提醒 v1.1.4新增，下一步中有具体的邮箱设置</div><div class="line">            verify: true,</div><div class="line">            app_id: &apos;&lt;%= theme.comments.valine.appId %&gt;&apos;,</div><div class="line">            app_key: &apos;&lt;%= theme.comments.valine.appKey %&gt;&apos;,</div><div class="line">			placeholder: &apos;评论时填写邮箱仅为方便收到回复提醒，无其他用途&apos;           </div><div class="line">        &#125;);</div><div class="line">    &lt;/script&gt;	</div><div class="line">	&lt;% &#125; %&gt;</div></pre></td></tr></table></figure><br><br>&emsp;&emsp;ok,到此就搞定了，重新在git-bush里执行hexo clean和hexo g就可以了。预览后你可以看到评论系统已经成功由Disqus替换为Valine。<br><br>&emsp;&emsp;关于很多人提到按链接里的教程添加代码，有评论界面却无法留下回复内容的情况，我想我找到原因了。<br><br>&emsp;&emsp;看到comments.ejs 里的“theme.comments.valine”这段没？大部分教程里都是这个样子“theme.comment.valine”,comment少了个s，根据主题配置文件的路径，脚本自然无法记录你的ID和key。<br><br>参考文章链接：<br><a href="https://ioliu.cn/2017/add-valine-comments-to-your-blog/" target="_blank" rel="external">https://ioliu.cn/2017/add-valine-comments-to-your-blog/</a><br><br><a href="https://www.yfzzweb.com/Hexo/hexo-valine/#more" target="_blank" rel="external">https://www.yfzzweb.com/Hexo/hexo-valine/#more</a><br><br>2017.10.25<br></font>
+</br>
+</br>
 			
 			<!-- Share -->
-			
+			<main class="flex-center">
+			<div>
 			
                  <!--MOB SHARE BEGIN-->
-<div class="-hoofoo-share-title">分享到：</div>
+<div class="-hoofoo-share-title">—— 分享到 ——</div>
 <div class="-hoofoo-share-buttons">
     <div class="-mob-share-weibo -hoofoo-share-weibo -hoofoo-share-ui-button"><i class="fa fa-weibo" aria-hidden="true"></i></div>
     <div class="-mob-share-weixin -hoofoo-share-weixin -hoofoo-share-ui-button"><i class="fa fa-weixin" aria-hidden="true"></i></div>
-    <div class="-mob-share-qq -hoofoo-share-qq -hoofoo-share-ui-button"><i class="fa fa-qq" aria-hidden="true"></i></div>
+    <div class="-mob-share-facebook -hoofoo-share-facebook -hoofoo-share-ui-button"><i class="fa fa-qq" aria-hidden="true"></i></div>
     <div class="-mob-share-twitter -hoofoo-share-twitter -hoofoo-share-ui-button"><i class="fa fa-twitter" aria-hidden="true"></i></div>
     <div class="-hoofoo-share-more -hoofoo-share-ui-button -mob-share-open"><i class="fa fa-ellipsis-h" aria-hidden="true"></i></div>
 </div>
-<div class="-mob-share-ui" style="display: none">
+<div class="-mob-share-ui" style="display: inline-block">
     <ul class="-mob-share-list">
-        <li class="-mob-share-weibo"><p>新浪微博</p></li>
-        <li class="-mob-share-weixin"><p>微信</p></li>
+        <!--li class="-mob-share-weibo"><p>新浪微博</p></li-->
+        <!--li class="-mob-share-weixin"><p>微信</p></li-->
         <li class="-mob-share-qzone"><p>QQ空间</p></li>
-        <li class="-mob-share-qq"><p>QQ好友</p></li>
+        <!--li class="-mob-share-qq"><p>QQ好友</p></li-->
         <li class="-mob-share-tencentweibo"><p>腾讯微博</p></li>
         <li class="-mob-share-renren"><p>人人网</p></li>
-        <li class="-mob-share-kaixin"><p>开心网</p></li>
+        <!--li class="-mob-share-kaixin"><p>开心网</p></li-->
         <li class="-mob-share-douban"><p>豆瓣</p></li>
-        <li class="-mob-share-youdao"><p>有道云笔记</p></li>
-        <li class="-mob-share-mingdao"><p>明道</p></li>
-        <li class="-mob-share-pengyou"><p>朋友网</p></li>
-        <li class="-mob-share-facebook"><p>Facebook</p></li>
-        <li class="-mob-share-twitter"><p>Twitter</p></li>
-        <li class="-mob-share-pocket"><p>Pocket</p></li>
+        <!--li class="-mob-share-youdao"><p>有道云笔记</p></li-->
+        <!--li class="-mob-share-mingdao"><p>明道</p></li-->
+        <!--!--li class="-mob-share-pengyou"><p>朋友网</p></li-->
+        <!--li class="-mob-share-facebook"><p>Facebook</p></li-->
+        <!--li class="-mob-share-twitter"><p>Twitter</p></li-->
+        <!--li class="-mob-share-pocket"><p>Pocket</p></li-->
         <li class="-mob-share-google"><p>Google+</p></li>
         <li class="-mob-share-tumblr"><p>Tumblr</p></li>
-        <li class="-mob-share-instapaper"><p>Instapaper</p></li>
+        <!--li class="-mob-share-instapaper"><p>Instapaper</p></li-->
         <li class="-mob-share-linkedin"><p>Linkedin</p></li>
     </ul>
     <div class="-mob-share-close">取消</div>
@@ -206,15 +209,15 @@
                      </script>
 <!--MOB SHARE END-->
              
+			 <div>
+			 </main>
 			 
             <!-- Comments -->
             <div>
                 
 
-</br>
-</br>
 			 
-<h3> 驻足此地超过3s,是不是有话要说~🙈</h3>
+<h4> 驻足此地超过3s,是不是有话要说~🙈</h4>
   <div class="comments" id="comments"></div>
     
 	
