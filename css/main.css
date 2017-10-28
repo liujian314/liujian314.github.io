@@ -406,13 +406,13 @@ h5, h6          { font-weight: bolder }
     background: #fff;
     width: auto;
     height: auto;
-    border-radius: 3px;
+    border-radius: 1px;/*tags 外框圆角值*/
     letter-spacing: .01em;
     cursor: pointer;
     margin: 0 4px 7px 0;
     color: #454545!important;
     border: 1px solid #454545;
-    padding: 7px 15px;
+    padding: 7px 10px;
     text-decoration: none;
 }
 
@@ -439,25 +439,25 @@ h5, h6          { font-weight: bolder }
 .work_nav{
     display: block;
     width: 100%;
+
 }
 
 .work_nav .btn{
 	background: rgba(255, 255, 255, .1);
     float: right;
-	 position:fixed;
-       right: 472px;
-       top: 626px;
 }
 
 .work_nav ul{
     list-style: none;
+	
 }
 
 .work_nav ul li{
     display: block;
     float: left;
     margin: 0 0 1px 1px;
-	position:relative;
+	position: relative;
+
     
 }
 
@@ -573,7 +573,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .content ol, .content ul{
-    margin-left: 15px;
+    margin-left: 0px; /*原值15px-影响正文所有组件位置,包括work nav*/
 }
 
 .content div.archive-title{
