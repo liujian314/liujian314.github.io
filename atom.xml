@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Liu Jian&#39;s Home</title>
   
-  <subtitle>刘健的博客</subtitle>
+  <subtitle>一口吞掉一朵云的猫</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liujiannn.com/"/>
-  <updated>2017-10-29T07:08:19.142Z</updated>
+  <updated>2017-10-30T00:59:37.619Z</updated>
   <id>http://liujiannn.com/</id>
   
   <author>
-    <name>Liujian</name>
+    <name>Liu Jian</name>
     
   </author>
   
@@ -20,10 +20,10 @@
     <title>Hello 欢迎你的来访~</title>
     <link href="http://liujiannn.com/post/Hello/"/>
     <id>http://liujiannn.com/post/Hello/</id>
-    <published>2017-10-21T10:56:42.252Z</published>
-    <updated>2017-10-29T07:08:19.142Z</updated>
+    <published>2017-10-21T10:56:42.253Z</published>
+    <updated>2017-10-30T00:59:37.619Z</updated>
     
-    <content type="html"><![CDATA[<p><center><img src="/image/自画像（美化版）450.png" alt="自画像（美化版）450"></center></p><p><center><font size="1" color="#DB8E71">My Head Pic▲</font></center></p><p><center><h2>引导语</h2></center></p><font size="2"><br><br> <font size="4"><strong> 感谢 </strong></font>你的来访~这是我的作品集空间和学习分享平台。博主工科出身（却跟计算机也不沾边的那种），华农大四🐶，性别️见▲。准GUI设计师一枚，将帮忙”养猪“。本想学场景/角色什么的，半路出家成了做UX的，可谓是野生了 。<br><br> 网站设计多半靠主题支撑，个别页面和功能我作了些改动。我早期接触过网络编程，但没深入，现在隔得时间久了基本不会敲代码。各位有啥好建议或意见的，非常欢迎在评论区指点或直接联系我，请让我再一次感受醍醐灌顶吧。🙈<br><br><br>1-博客除了更新作品（包括练习）之外也将在“Life Sharing - 点滴”栏里分享个人所见所思所学。<br><br><br>2-如需查看大图，请直接在作品上右键，并选择新标签页打开图片。另请尽量使用PC端访问本站以获得更佳浏览体验。<br><br><br>3-标签页还在琢磨着怎么完善，暂时无法实现标签搜索和直接查看所有标签，哈哈哈哈，正强补代码知识。。。🙈<br><br><br>4-博主目前无论是在美术功底还是在网络编程方向都还有很多需要提升的，所以非常渴望能得到来访朋友们的指点。<br><br><br><font size="1" color="#DB8E71">更新：博客已绑定独立域名，可我暂时没有更好的启用https（小绿锁）方案，CloudFlare已经尝试了，解析太慢，如有其他的建议，欢迎提出，先谢过。</font><p></p></font><br><br><br><br><p></p><!---Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).## Quick Start### Create a new post<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a><br>—&gt;</p>-->]]></content>
+    <content type="html"><![CDATA[<p><center><img src="/image/自画像（美化版）450.png" alt="自画像（美化版）450"></center></p><p><center><font size="1" color="#DB8E71">My Head Pic▲</font></center></p><p><center><h2>引导语</h2></center></p><font size="2"><br> <font size="4"><strong> 感谢 </strong></font>你的来访~这是我的作品集空间和学习分享平台。博主工科出身（却跟计算机也不沾边的那种），华农大四🐶，性别️见▲。准GUI设计师一枚，将帮忙”养猪“。本想学场景/角色什么的，半路出家成了做UX的，可谓是野生了 。<br><br> 网站设计多半靠主题支撑，个别页面和功能我作了些改动。我早期接触过网络编程，但没深入，现在隔得时间久了基本不会敲代码。各位有啥好建议或意见的，非常欢迎在评论区指点或直接联系我，请让我再一次感受醍醐灌顶吧。🙈<br><br>1-博客除了更新作品（包括练习）之外也将在“Life Sharing - 点滴”栏里分享个人所见所思所学。<br><br>2-如需查看大图，请直接在作品上右键，并选择新标签页打开图片。另请尽量使用PC端访问本站以获得更佳浏览体验。<br><br>3-标签页还在琢磨着怎么完善，暂时无法实现标签搜索和直接查看所有标签，哈哈哈哈，正强补代码知识。。。🙈<br><br>4-博主目前无论是在美术功底还是在网络编程方向都还有很多需要提升的，所以非常渴望能得到来访朋友们的指点。<br><br><font size="1" color="#DB8E71">更新：博客已绑定独立域名，可我暂时没有更好的启用https（小绿锁）方案，CloudFlare解析略慢，如有其他的建议，欢迎提出，先谢过。</font><p></p></font><p></p>]]></content>
     
     <summary type="html">
     
@@ -43,18 +43,17 @@
     <link href="http://liujiannn.com/post/%E5%81%B6%E7%84%B6%E6%83%B3%E8%B5%B7%E7%9A%84%E5%B0%8F%E6%95%85%E4%BA%8B2017.1/"/>
     <id>http://liujiannn.com/post/偶然想起的小故事2017.1/</id>
     <published>2017-01-21T14:39:13.000Z</published>
-    <updated>2017-10-25T16:00:04.239Z</updated>
+    <updated>2017-10-29T15:07:14.212Z</updated>
     
-    <content type="html"><![CDATA[<center><br><br> <h2>偶然想起的小故事 </h2><br><br> </center><p> <img src="/image/偶然想起的小故事 2017.1.jpg" alt="偶然想起的小故事"></p><p>2017.1    Photoshop</p>]]></content>
+    <content type="html"><![CDATA[<p> <img src="/image/偶然想起的小故事 2017.1.jpg" alt="偶然想起的小故事"></p><p>2017.1    Photoshop</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;偶然想起的小故事 &lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
+        &lt;p&gt; &lt;img src=&quot;/image/偶然想起的小故事 2017.1.jpg&quot; alt=&quot;偶然想起的小故事&quot;&gt;&lt;/p&gt;
+&lt;p&gt;2017.1    Photoshop&lt;/p&gt;
 
-&lt;p&gt; &lt;img src=&quot;/image/偶然想起的小故事 2017.1.jpg&quot; alt=&quot;偶然想起的小故事&quot;&gt;&lt;/p&gt;
-&lt;p&gt;2017.1    Photoshop&lt;
       
     
     </summary>
@@ -62,9 +61,9 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
       <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
       <category term="故事" scheme="http://liujiannn.com/tags/%E6%95%85%E4%BA%8B/"/>
     
@@ -75,17 +74,15 @@
     <link href="http://liujiannn.com/post/Sea2016.10/"/>
     <id>http://liujiannn.com/post/Sea2016.10/</id>
     <published>2016-10-21T14:39:13.000Z</published>
-    <updated>2017-10-25T16:00:18.958Z</updated>
+    <updated>2017-10-29T15:08:29.205Z</updated>
     
-    <content type="html"><![CDATA[<center><br><br> <h2>Sea </h2><br><br> </center><p> <img src="/image/Sea 2016.10.jpg" alt="Sea"></p><p>2016.10    Photoshop</p>]]></content>
+    <content type="html"><![CDATA[<p> <img src="/image/Sea 2016.10.jpg" alt="Sea"></p><p>2016.10    Photoshop</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;Sea &lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
-
-&lt;p&gt; &lt;img src=&quot;/image/Sea 2016.10.jpg&quot; alt=&quot;Sea&quot;&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;img src=&quot;/image/Sea 2016.10.jpg&quot; alt=&quot;Sea&quot;&gt;&lt;/p&gt;
 &lt;p&gt;2016.10    Photoshop&lt;/p&gt;
 
       
@@ -95,6 +92,8 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
       <category term="幻想" scheme="http://liujiannn.com/tags/%E5%B9%BB%E6%83%B3/"/>
     
       <category term="风景" scheme="http://liujiannn.com/tags/%E9%A3%8E%E6%99%AF/"/>
@@ -103,8 +102,6 @@
     
       <category term="海" scheme="http://liujiannn.com/tags/%E6%B5%B7/"/>
     
-      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
   </entry>
   
   <entry>
@@ -112,17 +109,15 @@
     <link href="http://liujiannn.com/post/%E8%88%B9%E5%AE%B42016.10/"/>
     <id>http://liujiannn.com/post/船宴2016.10/</id>
     <published>2016-10-21T14:39:13.000Z</published>
-    <updated>2017-10-25T15:59:44.852Z</updated>
+    <updated>2017-10-29T15:06:45.433Z</updated>
     
-    <content type="html"><![CDATA[<center><br><br> <h2>船宴</h2><br><br> </center><p> <img src="/image/船宴 2016.10.jpg" alt="船宴"></p><p>  2016.10    Photoshop</p>]]></content>
+    <content type="html"><![CDATA[<p> <img src="/image/船宴 2016.10.jpg" alt="船宴"></p><p>  2016.10    Photoshop</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;船宴&lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
-
-&lt;p&gt; &lt;img src=&quot;/image/船宴 2016.10.jpg&quot; alt=&quot;船宴&quot;&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;img src=&quot;/image/船宴 2016.10.jpg&quot; alt=&quot;船宴&quot;&gt;&lt;/p&gt;
 &lt;p&gt;  2016.10    Photoshop&lt;/p&gt;
 
       
@@ -132,9 +127,9 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
       <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
   </entry>
   
@@ -143,17 +138,15 @@
     <link href="http://liujiannn.com/post/%E6%9C%80%E5%90%8E%E7%9A%84%E5%86%B3%E6%88%982016.9/"/>
     <id>http://liujiannn.com/post/最后的决战2016.9/</id>
     <published>2016-09-21T14:39:13.000Z</published>
-    <updated>2017-10-25T15:59:58.139Z</updated>
+    <updated>2017-10-29T15:07:05.860Z</updated>
     
-    <content type="html"><![CDATA[<center><br><br> <h2>最后的决战 </h2><br><br> </center><p> <img src="/image/最后的决战 2016.9.jpg" alt="最后的决战"></p><p>2016.9    Photoshop</p>]]></content>
+    <content type="html"><![CDATA[<p> <img src="/image/最后的决战 2016.9.jpg" alt="最后的决战"></p><p>2016.9    Photoshop</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;最后的决战 &lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
-
-&lt;p&gt; &lt;img src=&quot;/image/最后的决战 2016.9.jpg&quot; alt=&quot;最后的决战&quot;&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;img src=&quot;/image/最后的决战 2016.9.jpg&quot; alt=&quot;最后的决战&quot;&gt;&lt;/p&gt;
 &lt;p&gt;2016.9    Photoshop&lt;/p&gt;
 
       
@@ -163,13 +156,13 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
       <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
-      <category term="人物" scheme="http://liujiannn.com/tags/%E4%BA%BA%E7%89%A9/"/>
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
       <category term="故事" scheme="http://liujiannn.com/tags/%E6%95%85%E4%BA%8B/"/>
+    
+      <category term="人物" scheme="http://liujiannn.com/tags/%E4%BA%BA%E7%89%A9/"/>
     
   </entry>
   
@@ -178,17 +171,15 @@
     <link href="http://liujiannn.com/post/%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%912016.9/"/>
     <id>http://liujiannn.com/post/重新出发2016.9/</id>
     <published>2016-09-21T14:39:13.000Z</published>
-    <updated>2017-10-25T15:59:38.902Z</updated>
+    <updated>2017-10-29T15:06:35.958Z</updated>
     
-    <content type="html"><![CDATA[<center><br><br> <h2>重新出发</h2><br><br> </center><p> <img src="/image/重新出发.jpg" alt="重新出发"></p><p>  2016.9    Photoshop</p>]]></content>
+    <content type="html"><![CDATA[<p> <img src="/image/重新出发.jpg" alt="重新出发"></p><p>  2016.9    Photoshop</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;重新出发&lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
-
-&lt;p&gt; &lt;img src=&quot;/image/重新出发.jpg&quot; alt=&quot;重新出发&quot;&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;img src=&quot;/image/重新出发.jpg&quot; alt=&quot;重新出发&quot;&gt;&lt;/p&gt;
 &lt;p&gt;  2016.9    Photoshop&lt;/p&gt;
 
       
@@ -200,11 +191,11 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
       <category term="幻想" scheme="http://liujiannn.com/tags/%E5%B9%BB%E6%83%B3/"/>
     
       <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
-      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
@@ -213,17 +204,15 @@
     <link href="http://liujiannn.com/post/%E9%9B%AA%E5%9B%BD2016.9/"/>
     <id>http://liujiannn.com/post/雪国2016.9/</id>
     <published>2016-09-21T14:39:13.000Z</published>
-    <updated>2017-10-25T15:59:33.016Z</updated>
+    <updated>2017-10-29T15:06:22.088Z</updated>
     
-    <content type="html"><![CDATA[<center><br><br> <h2>雪国</h2><br><br> </center><p> <img src="/image/雪国 2016.9.jpg" alt="雪国"></p><p>  2016.9    Photoshop</p>]]></content>
+    <content type="html"><![CDATA[<p> <img src="/image/雪国 2016.9.jpg" alt="雪国"></p><p>  2016.9    Photoshop</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;雪国&lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
-
-&lt;p&gt; &lt;img src=&quot;/image/雪国 2016.9.jpg&quot; alt=&quot;雪国&quot;&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;img src=&quot;/image/雪国 2016.9.jpg&quot; alt=&quot;雪国&quot;&gt;&lt;/p&gt;
 &lt;p&gt;  2016.9    Photoshop&lt;/p&gt;
 
       
@@ -235,11 +224,11 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
       <category term="风景" scheme="http://liujiannn.com/tags/%E9%A3%8E%E6%99%AF/"/>
     
       <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
-      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
@@ -248,17 +237,15 @@
     <link href="http://liujiannn.com/post/%E6%9D%AD%E5%B7%9E%E5%A4%9C%E9%98%812016.8/"/>
     <id>http://liujiannn.com/post/杭州夜阁2016.8/</id>
     <published>2016-08-21T14:39:13.000Z</published>
-    <updated>2017-10-25T15:59:50.831Z</updated>
+    <updated>2017-10-29T15:06:53.708Z</updated>
     
-    <content type="html"><![CDATA[<center><br><br> <h2>杭州夜阁</h2><br><br> </center><p> <img src="/image/杭州夜阁 2016.8.jpg" alt="杭州夜阁"></p><p>  2016.8    Photoshop</p>]]></content>
+    <content type="html"><![CDATA[<p> <img src="/image/杭州夜阁 2016.8.jpg" alt="杭州夜阁"></p><p>  2016.8    Photoshop</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;杭州夜阁&lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
-
-&lt;p&gt; &lt;img src=&quot;/image/杭州夜阁 2016.8.jpg&quot; alt=&quot;杭州夜阁&quot;&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;img src=&quot;/image/杭州夜阁 2016.8.jpg&quot; alt=&quot;杭州夜阁&quot;&gt;&lt;/p&gt;
 &lt;p&gt;  2016.8    Photoshop&lt;/p&gt;
 
       
@@ -270,9 +257,9 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
-    
       <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+      <category term="场景" scheme="http://liujiannn.com/tags/%E5%9C%BA%E6%99%AF/"/>
     
       <category term="建筑" scheme="http://liujiannn.com/tags/%E5%BB%BA%E7%AD%91/"/>
     
@@ -283,18 +270,17 @@
     <link href="http://liujiannn.com/post/Swimming%20Cat2016.7/"/>
     <id>http://liujiannn.com/post/Swimming Cat2016.7/</id>
     <published>2016-07-21T14:39:13.000Z</published>
-    <updated>2017-10-25T16:00:13.125Z</updated>
+    <updated>2017-10-29T15:07:23.979Z</updated>
     
-    <content type="html"><![CDATA[<center><br><br> <h2>Swimming Cat </h2><br><br> </center><p> <img src="/image/Swimming Cat 2016.7.jpg" alt="Swimming Cat"></p><p>2016.7    Photoshop</p>]]></content>
+    <content type="html"><![CDATA[<p> <img src="/image/Swimming Cat 2016.7.jpg" alt="Swimming Cat"></p><p>2016.7    Photoshop</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;center&gt;&lt;br&gt;&lt;br&gt; &lt;h2&gt;Swimming Cat &lt;/h2&gt;&lt;br&gt;&lt;br&gt; &lt;/center&gt;
+        &lt;p&gt; &lt;img src=&quot;/image/Swimming Cat 2016.7.jpg&quot; alt=&quot;Swimming Cat&quot;&gt;&lt;/p&gt;
+&lt;p&gt;2016.7    Photoshop&lt;/p&gt;
 
-&lt;p&gt; &lt;img src=&quot;/image/Swimming Cat 2016.7.jpg&quot; alt=&quot;Swimming Cat&quot;&gt;&lt;/p&gt;
-&lt;p&gt;2016.7  
       
     
     </summary>
@@ -304,11 +290,11 @@
     
       <category term="Photoshop" scheme="http://liujiannn.com/tags/Photoshop/"/>
     
-      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
-    
       <category term="动物" scheme="http://liujiannn.com/tags/%E5%8A%A8%E7%89%A9/"/>
     
       <category term="写实" scheme="http://liujiannn.com/tags/%E5%86%99%E5%AE%9E/"/>
+    
+      <category term="练习" scheme="http://liujiannn.com/tags/%E7%BB%83%E4%B9%A0/"/>
     
   </entry>
   
