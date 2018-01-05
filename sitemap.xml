@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://liujiannn.com/hello/index.html</loc>
+    
+    <lastmod>2018-01-05T12:01:23.412Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://liujiannn.com/post/bookmarksshare1/</loc>
     
-    <lastmod>2018-01-05T10:43:31.464Z</lastmod>
+    <lastmod>2018-01-05T11:56:56.545Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://liujiannn.com/whoami/index.html</loc>
+    
+    <lastmod>2018-01-05T11:56:17.891Z</lastmod>
     
   </url>
   
@@ -72,13 +86,6 @@
   </url>
   
   <url>
-    <loc>http://liujiannn.com/hello/index.html</loc>
-    
-    <lastmod>2018-01-05T09:32:53.810Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://liujiannn.com/note/2017.10.25/index.html</loc>
     
     <lastmod>2017-11-08T15:30:03.676Z</lastmod>
@@ -96,13 +103,6 @@
     <loc>http://liujiannn.com/photos/data.json</loc>
     
     <lastmod>2017-10-30T08:27:08.179Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://liujiannn.com/whoami/index.html</loc>
-    
-    <lastmod>2017-10-29T16:34:48.152Z</lastmod>
     
   </url>
   
