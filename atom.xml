@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liujiannn.com/"/>
-  <updated>2018-03-07T02:22:51.848Z</updated>
+  <updated>2018-03-18T07:34:19.689Z</updated>
   <id>http://liujiannn.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>界面设计-2018.3.16</title>
+    <link href="http://liujiannn.com/post/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1-2018.3.16/"/>
+    <id>http://liujiannn.com/post/界面设计-2018.3.16/</id>
+    <published>2018-03-18T05:08:36.000Z</published>
+    <updated>2018-03-18T07:34:19.689Z</updated>
+    
+    <content type="html"><![CDATA[<center><h3 id="MOBA类匹配交互界面设计"><a href="MOBA类匹配交互界面设计" class="headerlink" title="MOBA类匹配交互界面设计"></a>MOBA类匹配交互界面设计</h3><br><img src="/image/界面设计/2018-3-16/界面设计-匹配界面交互图.png" alt="MOBA类匹配交互界面设计">界面设计-匹配界面交互图</center><br><a id="more"></a><br><hr><br><center><b>先做总结，后附上设计说明</b><br>（可在右栏目录直接跳转）<br></center><p>从现在开始我要为每次练习或作品绘制统计时间，并不是单纯地只为追求速度，而是给自己提个醒，拖延症（也许是迷之自信）要适而可止！<br>这次又赶deadline了，两周的时间竟被我拖到最后两天！惭愧。<br>搜集素材及思路学习1天，风格定稿1天，完成绘制6~7hr。</p><p>我本身对本次的绘制精度是不满意的，细看的话会发现高光滥用，字体无纹理，玻璃材质没完善等一系列问题。自己反思了一下，时间紧迫是其中一个原因，另外自己也还没有习得套路化的绘制技能（不可能的，套路化的东西虽好，但也可以是一条栓人的锁链）。</p><p>本次设计要点分析：<br>1.过渡和引导<br>如果UI给出的界面框架含多个功能模块（两到三个面板集合在一起的），如上图，玩家排行信息+排位赛选择界面。这种情况就不可避免的要在一块屏幕上划分区域了。划分区域容易给人直来直去的框架感，所以我认为需要做些过渡化的设计，来使多个板块自然的融合在一起。<br>基础一点的就单纯做一个颜色设计和材质上的过渡，高级一点的除了在视觉过渡方面还在逻辑层面上也实现引导。</p><p>2.指示性标示<br>游戏界面一般包含多个小功能，所以指示性的东西我们就一定要做到位。<br>根据我目前的认识，指示性层面需要注意的要点有如下几个方面：<br>——选中状态（可采用边框特殊处理，打光，或是颜色标示）<br>——切换指示（可采用排列的小圆圈dots标示）<br>——滚动指示（可在滚动栏末端采用虚化或是在表面增加阴影表示，不过这种方案需要配合一个滑动图标，另外也可以加一个ScrollBar）<br>——消息通知（一般采用dot指示即可）<br>——可点击交互指示（通常给它加个光效，经动效处理后可明可暗，以吸引人的注意力）</p><p>最后一个总结：多看多听多观察，还是要成为一个习惯才好。</p><p><hr></p><center><h3 id="设计说明"><a href="设计说明" class="headerlink" title="设计说明"></a>设计说明</h3><br><font size="2" color="#89303f">▲如需查看大图，请右键并选择“在新标签页中打开图片”</font><br><img src="/image/界面设计/2018-3-16/设计说明-匹配界面交互图.jpg" alt="设计说明"><br><br><br><font size="2" color="#89303f">▲ 此为个人作品，未经博主许可，请勿擅自挪用！</font><br></center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;center&gt;&lt;h3 id=&quot;MOBA类匹配交互界面设计&quot;&gt;&lt;a href=&quot;MOBA类匹配交互界面设计&quot; class=&quot;headerlink&quot; title=&quot;MOBA类匹配交互界面设计&quot;&gt;&lt;/a&gt;MOBA类匹配交互界面设计&lt;/h3&gt;&lt;br&gt;&lt;img src=&quot;/image/界面设计/2018-3-16/界面设计-匹配界面交互图.png&quot; alt=&quot;MOBA类匹配交互界面设计&quot;&gt;界面设计-匹配界面交互图&lt;/center&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="作品集" scheme="http://liujiannn.com/categories/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
+    
+    
+      <category term="作品集" scheme="http://liujiannn.com/tags/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
+    
+      <category term="界面设计" scheme="http://liujiannn.com/tags/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>临摹练习（精绘）-2018.3-1</title>
@@ -71,30 +95,6 @@
   </entry>
   
   <entry>
-    <title>图标设计-2018.1-1</title>
-    <link href="http://liujiannn.com/post/%E5%9B%BE%E6%A0%87%E8%AE%BE%E8%AE%A1-2018.1-1/"/>
-    <id>http://liujiannn.com/post/图标设计-2018.1-1/</id>
-    <published>2018-02-21T14:59:36.000Z</published>
-    <updated>2018-03-07T02:16:49.479Z</updated>
-    
-    <content type="html"><![CDATA[<center>物品图标</center><br><div class="img-5"><img src="/image/图标设计/2018-1-1/图标设计3.1.png" alt="充能药瓶"><br><img src="/image/图标设计/2018-1-1/图标设计3.2.png" alt="力量之盾"><br><img src="/image/图标设计/2018-1-1/图标设计3.3.png" alt="神秘宝箱"><br><img src="/image/图标设计/2018-1-1/图标设计3.4.png" alt="魔法卷轴"><br><img src="/image/图标设计/2018-1-1/图标设计3.5.png" alt="补血道具"><br></div><br><a id="more"></a><br><br><center>技能图标</center><br><div class="img-5"><img src="/image/图标设计/2018-1-1/图标设计3.6.png" alt="梵咒之符"><br><img src="/image/图标设计/2018-1-1/图标设计3.7.png" alt="飞龙撞击"><br><img src="/image/图标设计/2018-1-1/图标设计3.8.png" alt="狂野生张"><br><img src="/image/图标设计/2018-1-1/图标设计3.9.png" alt="心灵烈焰"><br><img src="/image/图标设计/2018-1-1/图标设计3.10.png" alt="聚能之炎"><br></div><br><br><center><font size="2" color="#89303f">▲ 此为个人作品，未经博主许可，请勿擅自挪用！</font></center>]]></content>
-    
-    <summary type="html">
-    
-      &lt;center&gt;物品图标&lt;/center&gt;&lt;br&gt;&lt;div class=&quot;img-5&quot;&gt;&lt;img src=&quot;/image/图标设计/2018-1-1/图标设计3.1.png&quot; alt=&quot;充能药瓶&quot;&gt;&lt;br&gt;&lt;img src=&quot;/image/图标设计/2018-1-1/图标设计3.2.png&quot; alt=&quot;力量之盾&quot;&gt;&lt;br&gt;&lt;img src=&quot;/image/图标设计/2018-1-1/图标设计3.3.png&quot; alt=&quot;神秘宝箱&quot;&gt;&lt;br&gt;&lt;img src=&quot;/image/图标设计/2018-1-1/图标设计3.4.png&quot; alt=&quot;魔法卷轴&quot;&gt;&lt;br&gt;&lt;img src=&quot;/image/图标设计/2018-1-1/图标设计3.5.png&quot; alt=&quot;补血道具&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;
-    
-    </summary>
-    
-      <category term="作品集" scheme="http://liujiannn.com/categories/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
-    
-    
-      <category term="作品集" scheme="http://liujiannn.com/tags/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
-    
-      <category term="图标设计" scheme="http://liujiannn.com/tags/%E5%9B%BE%E6%A0%87%E8%AE%BE%E8%AE%A1/"/>
-    
-  </entry>
-  
-  <entry>
     <title>徽章设计-2018.2-1</title>
     <link href="http://liujiannn.com/post/%E5%BE%BD%E7%AB%A0%E8%AE%BE%E8%AE%A1-2018.2-1/"/>
     <id>http://liujiannn.com/post/徽章设计-2018.2-1/</id>
@@ -115,6 +115,30 @@
       <category term="作品集" scheme="http://liujiannn.com/tags/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
     
       <category term="徽章设计" scheme="http://liujiannn.com/tags/%E5%BE%BD%E7%AB%A0%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图标设计-2018.1-1</title>
+    <link href="http://liujiannn.com/post/%E5%9B%BE%E6%A0%87%E8%AE%BE%E8%AE%A1-2018.1-1/"/>
+    <id>http://liujiannn.com/post/图标设计-2018.1-1/</id>
+    <published>2018-02-21T14:59:36.000Z</published>
+    <updated>2018-03-07T02:16:49.479Z</updated>
+    
+    <content type="html"><![CDATA[<center>物品图标</center><br><div class="img-5"><img src="/image/图标设计/2018-1-1/图标设计3.1.png" alt="充能药瓶"><br><img src="/image/图标设计/2018-1-1/图标设计3.2.png" alt="力量之盾"><br><img src="/image/图标设计/2018-1-1/图标设计3.3.png" alt="神秘宝箱"><br><img src="/image/图标设计/2018-1-1/图标设计3.4.png" alt="魔法卷轴"><br><img src="/image/图标设计/2018-1-1/图标设计3.5.png" alt="补血道具"><br></div><br><a id="more"></a><br><br><center>技能图标</center><br><div class="img-5"><img src="/image/图标设计/2018-1-1/图标设计3.6.png" alt="梵咒之符"><br><img src="/image/图标设计/2018-1-1/图标设计3.7.png" alt="飞龙撞击"><br><img src="/image/图标设计/2018-1-1/图标设计3.8.png" alt="狂野生张"><br><img src="/image/图标设计/2018-1-1/图标设计3.9.png" alt="心灵烈焰"><br><img src="/image/图标设计/2018-1-1/图标设计3.10.png" alt="聚能之炎"><br></div><br><br><center><font size="2" color="#89303f">▲ 此为个人作品，未经博主许可，请勿擅自挪用！</font></center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;center&gt;物品图标&lt;/center&gt;&lt;br&gt;&lt;div class=&quot;img-5&quot;&gt;&lt;img src=&quot;/image/图标设计/2018-1-1/图标设计3.1.png&quot; alt=&quot;充能药瓶&quot;&gt;&lt;br&gt;&lt;img src=&quot;/image/图标设计/2018-1-1/图标设计3.2.png&quot; alt=&quot;力量之盾&quot;&gt;&lt;br&gt;&lt;img src=&quot;/image/图标设计/2018-1-1/图标设计3.3.png&quot; alt=&quot;神秘宝箱&quot;&gt;&lt;br&gt;&lt;img src=&quot;/image/图标设计/2018-1-1/图标设计3.4.png&quot; alt=&quot;魔法卷轴&quot;&gt;&lt;br&gt;&lt;img src=&quot;/image/图标设计/2018-1-1/图标设计3.5.png&quot; alt=&quot;补血道具&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="作品集" scheme="http://liujiannn.com/categories/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
+    
+    
+      <category term="作品集" scheme="http://liujiannn.com/tags/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
+    
+      <category term="图标设计" scheme="http://liujiannn.com/tags/%E5%9B%BE%E6%A0%87%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
