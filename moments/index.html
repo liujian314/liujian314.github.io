@@ -96,7 +96,7 @@
 <meta property="og:site_name" content="Liu Jian&#39;s Home">
 <meta property="og:description" content="不知道为什么，有时会很想往朋友圈写些什么东西，不过总是写着写着，就打消了这个念头，最后退出了编辑。会有那么一些时候，想避开朋友圈。偶尔想吐苦水，或是个人的小小开心，还是放在这就好了。">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-05-17T07:19:23.786Z">
+<meta property="og:updated_time" content="2018-05-23T08:39:42.694Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Moments">
 <meta name="twitter:description" content="不知道为什么，有时会很想往朋友圈写些什么东西，不过总是写着写着，就打消了这个念头，最后退出了编辑。会有那么一些时候，想避开朋友圈。偶尔想吐苦水，或是个人的小小开心，还是放在这就好了。">
@@ -321,6 +321,7 @@
         
         
           <center>不知道为什么，有时会很想往朋友圈写些什么东西，不过总是写着写着，就打消了这个念头，最后退出了编辑。<br>会有那么一些时候，想避开朋友圈。偶尔想吐苦水，或是个人的小小开心，还是放在这就好了。</center>
+
         
       </div>
       
@@ -341,10 +342,9 @@
 
   
     <div class="comments" id="comments">
-      <div id="vcomments"></div>
     </div>
-  
 
+  
 
 
         </div>
@@ -388,7 +388,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">23</span>
+                  <span class="site-state-item-count">24</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -692,24 +692,25 @@
 
 
 
+
   
   <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  <!--script src="//cdn.jsdelivr.net/gh/xcss/valine@v1.1.7-rc3/dist/Valine.min.js"></script-->
   <script src="/js/src/Valine.min.js"></script>
+  
   <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = '';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
     new Valine({
-        av: AV,
+        av: AV, 
         el: '#comments' ,
-        verify: true,
-        notify: true,
-        app_id: 'oFTVPhtp8r22NNFrXst4J8GF-gzGzoHsz',
-        app_key: 'ijL20KXpg1s020DJPtDOlzn9',
-        placeholder: '说点什么?'
-
+        appId: 'oFTVPhtp8r22NNFrXst4J8GF-gzGzoHsz',
+        appKey: 'ijL20KXpg1s020DJPtDOlzn9',
+        placeholder: '说点什么?',
     });
   </script>
-
-
 
   
 

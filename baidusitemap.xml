@@ -3,6 +3,41 @@
 
 
     
+  <url>
+    <loc>http://liujiannn.com/post/test/</loc>
+    <lastmod>2018-06-07T07:58:34.329Z</lastmod>
+    <data>
+        <display>
+        <title>Test</title>
+        <pubTime>1999-12-31T16:00:00.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://liujiannn.com/post/new%20year%20report%202017/</loc>
+    <lastmod>2018-05-21T14:07:37.944Z</lastmod>
+    <data>
+        <display>
+        <title>辞去旧年-个人总结</title>
+        <pubTime>2018-01-05T06:37:31.000Z</pubTime>
+        
+        <tag>杂感</tag>
+         
+         
+           
+             
+              <breadCrumb title="杂感" url="http://liujiannn.com/categories/%E6%9D%82%E6%84%9F/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>http://liujiannn.com/post/%E6%98%8E%E6%97%A5%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%B0%E5%90%9B%E3%82%92%E3%81%8D%E3%81%A3%E3%81%A8%20%E4%BB%8A%E3%82%88%E3%82%8A%E3%82%82%E3%81%A3%E3%81%A8%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%8B/</loc>
@@ -31,26 +66,6 @@
         <display>
         <title>今日杂绪</title>
         <pubTime>2018-01-24T06:23:43.000Z</pubTime>
-        
-        <tag>杂感</tag>
-         
-         
-           
-             
-              <breadCrumb title="杂感" url="http://liujiannn.com/categories/%E6%9D%82%E6%84%9F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liujiannn.com/post/new%20year%20report%202017/</loc>
-    <lastmod>2018-05-14T15:48:08.593Z</lastmod>
-    <data>
-        <display>
-        <title>辞去旧年-个人总结</title>
-        <pubTime>2018-01-05T06:37:31.000Z</pubTime>
         
         <tag>杂感</tag>
          

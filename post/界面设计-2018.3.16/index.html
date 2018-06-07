@@ -493,10 +493,9 @@
 
   
     <div class="comments" id="comments">
-      <div id="vcomments"></div>
     </div>
-  
 
+  
 
 
         </div>
@@ -549,7 +548,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">23</span>
+                  <span class="site-state-item-count">24</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -869,24 +868,25 @@
 
 
 
+
   
   <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  <!--script src="//cdn.jsdelivr.net/gh/xcss/valine@v1.1.7-rc3/dist/Valine.min.js"></script-->
   <script src="/js/src/Valine.min.js"></script>
+  
   <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = '';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
     new Valine({
-        av: AV,
+        av: AV, 
         el: '#comments' ,
-        verify: true,
-        notify: true,
-        app_id: 'oFTVPhtp8r22NNFrXst4J8GF-gzGzoHsz',
-        app_key: 'ijL20KXpg1s020DJPtDOlzn9',
-        placeholder: '说点什么?'
-
+        appId: 'oFTVPhtp8r22NNFrXst4J8GF-gzGzoHsz',
+        appKey: 'ijL20KXpg1s020DJPtDOlzn9',
+        placeholder: '说点什么?',
     });
   </script>
-
-
 
   
 

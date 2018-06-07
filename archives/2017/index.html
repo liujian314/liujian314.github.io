@@ -313,7 +313,7 @@
         
           
         
-        嗯..! 目前共计 23 篇日志。 继续努力。
+        嗯..! 目前共计 24 篇日志。 继续努力。
       </span>
 
       
@@ -412,7 +412,6 @@
 
 
           
-
         </div>
         
           
@@ -454,7 +453,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">23</span>
+                  <span class="site-state-item-count">24</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -755,6 +754,24 @@
 
 
 
+  
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="/js/src/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = '';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        av: AV, 
+        el: '#comments' ,
+        appId: 'oFTVPhtp8r22NNFrXst4J8GF-gzGzoHsz',
+        appKey: 'ijL20KXpg1s020DJPtDOlzn9',
+        placeholder: '说点什么?',
+    });
+  </script>
 
   
 

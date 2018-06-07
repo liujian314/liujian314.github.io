@@ -1814,7 +1814,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #09ff50;
+  background: #ff1b59;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2758,4 +2758,20 @@ hr {
   width: 100%;
   column-gap: 0px;
   margin-bottom: 0px;
+}
+.post-widgets {
+  border-top: 1px solid #eee;
+  padding-top: 9px;
+  margin-top: 45px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.wp_rating {
+  height: 20px;
+  margin-right: 10px;
+  text-align: center;
+  line-height: 20px;
+  padding-top: 6px;
 }

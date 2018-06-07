@@ -451,8 +451,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/post/图标设计-2017.12-1/" rel="next" title="图标设计-2017.12-1">
-                <i class="fa fa-chevron-left"></i> 图标设计-2017.12-1
+              <a href="/post/徽章设计-2018.2-1/" rel="next" title="徽章设计-2018.2-1">
+                <i class="fa fa-chevron-left"></i> 徽章设计-2018.2-1
               </a>
             
           </div>
@@ -461,8 +461,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/post/徽章设计-2018.2-1/" rel="prev" title="徽章设计-2018.2-1">
-                徽章设计-2018.2-1 <i class="fa fa-chevron-right"></i>
+              <a href="/post/临摹练习-2018.1-1/" rel="prev" title="临摹练习（入口启动icon）-2018.1-1">
+                临摹练习（入口启动icon）-2018.1-1 <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -494,10 +494,9 @@
 
   
     <div class="comments" id="comments">
-      <div id="vcomments"></div>
     </div>
-  
 
+  
 
 
         </div>
@@ -541,7 +540,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">23</span>
+                  <span class="site-state-item-count">24</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -845,24 +844,25 @@
 
 
 
+
   
   <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  <!--script src="//cdn.jsdelivr.net/gh/xcss/valine@v1.1.7-rc3/dist/Valine.min.js"></script-->
   <script src="/js/src/Valine.min.js"></script>
+  
   <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = '';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
     new Valine({
-        av: AV,
+        av: AV, 
         el: '#comments' ,
-        verify: true,
-        notify: true,
-        app_id: 'oFTVPhtp8r22NNFrXst4J8GF-gzGzoHsz',
-        app_key: 'ijL20KXpg1s020DJPtDOlzn9',
-        placeholder: '说点什么?'
-
+        appId: 'oFTVPhtp8r22NNFrXst4J8GF-gzGzoHsz',
+        appKey: 'ijL20KXpg1s020DJPtDOlzn9',
+        placeholder: '说点什么?',
     });
   </script>
-
-
 
   
 
